@@ -51,6 +51,7 @@ int main() {
     bool gameOver = false;
 
     while (!gameOver) {
+        // Displays the final board design
         displayBoard(board);
 
         int row, col;
