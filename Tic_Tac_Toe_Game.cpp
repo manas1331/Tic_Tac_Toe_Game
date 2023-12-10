@@ -1,4 +1,4 @@
-// Import all the libraries required
+// Import all the libraries required i.e iostream,vector,
 #include <iostream>
 #include <vector>
 #include <string>
