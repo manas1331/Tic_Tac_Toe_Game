@@ -5,7 +5,7 @@
 
 using namespace std;
 
-//Create a function called
+//Create a function called displayBoard 
 void displayBoard(const vector<vector<char>>& board) {
     cout << "   1   2   3" << endl;
     for (int i = 0; i < 3; i++) {
